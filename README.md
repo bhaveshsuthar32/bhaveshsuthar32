@@ -82,6 +82,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bhaveshsuthar32/bhaveshsuthar32/output/snake.svg" alt="Snake animation" />
 
 ###
