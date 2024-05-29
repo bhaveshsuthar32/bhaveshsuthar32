@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Databash</p>
+<p align="left">Database</p>
 
 ###
 
